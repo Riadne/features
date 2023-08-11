@@ -1,6 +1,6 @@
 # Devcontainer Features
 
-![Codespaces](https://img.shields.io/static/v1?style=for-the-badge&message=Codespaces&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![Codespaces][def]
 ![Devcontainers](https://img.shields.io/static/v1?style=for-the-badge&message=Devcontainers&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![](https://i.imgur.com/VgiY81S.png)
+![][def2]
 
 </div>
 
@@ -49,4 +49,9 @@ compile things from source code and may take a while!
 
 ### Found a bug?
 
-[🐞Open an bug report!🐞](https://github.com/devcontainers-contrib/features/issues/new?template=feature-bug-report.yaml)
+[🐞Open an bug report!🐞][def3]
+
+
+[def]: https://img.shields.io/static/v1?style=for-the-badge&message=Codespaces&color=181717&logo=GitHub&logoColor=FFFFFF&label=
+[def2]: https://i.imgur.com/VgiY81S.png
+[def3]: https://github.com/devcontainers-contrib/features/issues/new?template=feature-bug-report.yaml
