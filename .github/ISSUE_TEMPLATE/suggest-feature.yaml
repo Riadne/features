@@ -2,9 +2,9 @@ name: 🔥Suggest a new Feature!🔥
 description: Missing a feature? Ask and you shall receive!
 title: "[Feature Request]: "
 labels: ["enhancement"]
-body:
+body: create email working agress
   - type: markdown
-    attributes:
+    attributes: 
       value: |
         Thanks for taking the time to suggest this devcontainer feature!
   - type: textarea
@@ -12,5 +12,5 @@ body:
     attributes:
       label: Requested Feature
       description: What did you had in mind?
-    validations:
+    validations: true
       required: true
